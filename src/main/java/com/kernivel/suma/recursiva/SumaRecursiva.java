@@ -33,7 +33,7 @@ public class SumaRecursiva {
         System.out.println("Ingerese numero");
         //Guardado de numero ingresado por teclado
         num = temp.nextInt();
-        //Condicion de salida, si el verdadero detiene la recursividad
+        //Condicion de salida, si es verdadero detiene la recursividad
         if(num==0){
             return;
         }
